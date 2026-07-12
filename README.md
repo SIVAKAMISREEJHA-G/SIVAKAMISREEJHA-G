@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer & Full-Stack Developer — building intelligent systems end-to-end</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+LLM+%26+ML-powered+applications;Turning+messy+data+into+intelligent+systems;Python+%7C+LLM+%7C+Machine+Learning+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+LLM+%26+ML-powered+applications;Turning+messy+data+into+intelligent+systems;Python+%7C+LLM+%7C+Machine+Learning+%7C+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
