@@ -20,7 +20,7 @@ I'm an **AI Engineer and Full-Stack Developer** who enjoys building things end-t
 - 🔭 Currently exploring **applied ML, data engineering, and intelligent automation**
 - 🌱 Always sharpening my skills in **system design & scalable architectures**
 - 💬 Ask me about **Python, TypeScript, ML pipelines, or full-stack builds**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **sivakamisreejha@gmail.com**
 
 ---
 
@@ -67,10 +67,10 @@ I'm an **AI Engineer and Full-Stack Developer** who enjoys building things end-t
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/sivakami-sreejha-g-b19b17290/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:sivakamisreejha@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
